@@ -1,13 +1,14 @@
-### Boas vindas ao meu perfil 💙💙
+### Boas vindas ao meu perfil! ^_^
 
 Meu nome é Isabely Queiroga e estou estudando na Alura, me desenvolvendo na linguagem JavaScript.
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos!
 
-### Você pode entrar em contato comigo 📫
+### Você pode entrar em contato comigo 
 
 00001102194333sp@al.educacao.sp.gov.br
 
-![](https://tenor.com/pt-BR/view/plink-wide-cat-plink-cat-meow-gif-27396868)
+![](https://media1.tenor.com/m/3r-QGRhaTrcAAAAd/cat-simasimasima.gif)
+![](https://media.tenor.com/BDDVm_as-RAAAAAi/cat-sitting.gif)
 
 
 
