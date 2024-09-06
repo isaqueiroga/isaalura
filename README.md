@@ -7,5 +7,7 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 alurastartestudante@email.com
 
+![](https://tenor.com/pt-BR/view/plink-wide-cat-plink-cat-meow-gif-27396868)
 
-![](https://tenor.com/b07k8.gif)
+
+
