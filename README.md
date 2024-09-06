@@ -7,4 +7,4 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 alurastartestudante@email.com
 
-![]([link](https://tenor.com/b07k8.gif))
+![]([link](https://tenor.com/b07k8.gif)
